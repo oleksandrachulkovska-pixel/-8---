@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab8_Inheritance\\x64\\Debug\\Lab8_Inheritance.obj",
+            "outputs": [
+                "Lab8_Inheritance\\x64\\Debug\\Lab8_Inheritance.cpp.obj.dt.module.json",
+                "Lab8_Inheritance\\x64\\Debug\\Lab8_Inheritance.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
